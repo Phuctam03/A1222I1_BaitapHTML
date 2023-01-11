@@ -11,7 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b180633-bb00-4a80-9784-c67d834d2ac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/taodanhsach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dangkihocvien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Formdangky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUrveykhachhang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taobangdongian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taoformcoban.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +68,9 @@
       <workItem from="1673272120850" duration="108000" />
       <workItem from="1673272339322" duration="1895000" />
       <workItem from="1673280672216" duration="1435000" />
+      <workItem from="1673351539135" duration="765000" />
+      <workItem from="1673439849776" duration="7293000" />
+      <workItem from="1673453016783" duration="10946000" />
     </task>
     <servers />
   </component>
@@ -87,5 +94,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="884" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1673270644597" />
+    <state x="746" y="138" key="search.everywhere.popup" timestamp="1673460938353">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="746" y="138" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1673460938353" />
   </component>
 </project>
